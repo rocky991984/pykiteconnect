@@ -1,0 +1,4 @@
+messages:
+  - role: system
+    content: 'Share market analysis '
+model: deepseek/deepseek-v3-0324
